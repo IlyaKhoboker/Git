@@ -1,0 +1,83 @@
+C:\Users\Delalex\Desktop\Учеба\ТП\Курсовая\SQL\myFarm\bin\Debug\myFarm.exe.config
+C:\Users\Delalex\Desktop\Учеба\ТП\Курсовая\SQL\myFarm\bin\Debug\myFarm.exe
+C:\Users\Delalex\Desktop\Учеба\ТП\Курсовая\SQL\myFarm\bin\Debug\myFarm.pdb
+C:\Users\Delalex\Desktop\Учеба\ТП\Курсовая\SQL\myFarm\bin\Debug\MySql.Data.dll
+C:\Users\Delalex\Desktop\Учеба\ТП\Курсовая\SQL\myFarm\bin\Debug\Google.Protobuf.dll
+C:\Users\Delalex\Desktop\Учеба\ТП\Курсовая\SQL\myFarm\bin\Debug\ZstdNet.dll
+C:\Users\Delalex\Desktop\Учеба\ТП\Курсовая\SQL\myFarm\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Delalex\Desktop\Учеба\ТП\Курсовая\SQL\myFarm\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Delalex\Desktop\Учеба\ТП\Курсовая\SQL\myFarm\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Delalex\Desktop\Учеба\ТП\Курсовая\SQL\myFarm\bin\Debug\System.Memory.dll
+C:\Users\Delalex\Desktop\Учеба\ТП\Курсовая\SQL\myFarm\bin\Debug\System.Buffers.dll
+C:\Users\Delalex\Desktop\Учеба\ТП\Курсовая\SQL\myFarm\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Delalex\Desktop\Учеба\ТП\Курсовая\SQL\myFarm\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Delalex\Desktop\Учеба\ТП\Курсовая\SQL\myFarm\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Delalex\Desktop\Учеба\ТП\Курсовая\SQL\myFarm\bin\Debug\MySql.Data.xml
+C:\Users\Delalex\Desktop\Учеба\ТП\Курсовая\SQL\myFarm\obj\Debug\myFarm.csproj.AssemblyReference.cache
+C:\Users\Delalex\Desktop\Учеба\ТП\Курсовая\SQL\myFarm\obj\Debug\myFarm.exe.config
+C:\Users\Delalex\Desktop\Учеба\ТП\Курсовая\SQL\myFarm\obj\Debug\myFarm.Properties.Resources.resources
+C:\Users\Delalex\Desktop\Учеба\ТП\Курсовая\SQL\myFarm\obj\Debug\myFarm.csproj.GenerateResource.cache
+C:\Users\Delalex\Desktop\Учеба\ТП\Курсовая\SQL\myFarm\obj\Debug\myFarm.csproj.CoreCompileInputs.cache
+C:\Users\Delalex\Desktop\Учеба\ТП\Курсовая\SQL\myFarm\obj\Debug\myFarm.csproj.CopyComplete
+C:\Users\Delalex\Desktop\Учеба\ТП\Курсовая\SQL\myFarm\obj\Debug\myFarm.exe
+C:\Users\Delalex\Desktop\Учеба\ТП\Курсовая\SQL\myFarm\obj\Debug\myFarm.pdb
+C:\Users\Delalex\Desktop\Учеба\ТП\Курсовая\SQL\myFarm\obj\Debug\myFarm.Auth.resources
+C:\Users\Delalex\Desktop\Учеба\ТП\Курсовая\SQL\myFarm\obj\Debug\myFarm.MainScreen.resources
+C:\Users\Delalex\Desktop\Учеба\ТП\Курсовая\SQL\myFarm\obj\Debug\myFarm.AddAnimal.resources
+C:\Users\Delalex\Desktop\Учеба\ТП\Курсовая\SQL\myFarm\obj\Debug\myFarm.DeleteAnimal.resources
+C:\Users\Delalex\Desktop\Учеба\ТП\Курсовая\SQL\myFarm\obj\Debug\myFarm.About.resources
+C:\Users\Delalex\Desktop\Учеба\ТП\Курсовая\SQL\myFarm\obj\Debug\myFarm.lookAnimals.resources
+D:\myFarm\bin\Debug\myFarm.exe.config
+D:\myFarm\bin\Debug\myFarm.exe
+D:\myFarm\bin\Debug\myFarm.pdb
+D:\myFarm\bin\Debug\MySql.Data.dll
+D:\myFarm\bin\Debug\Google.Protobuf.dll
+D:\myFarm\bin\Debug\ZstdNet.dll
+D:\myFarm\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\myFarm\bin\Debug\BouncyCastle.Crypto.dll
+D:\myFarm\bin\Debug\Ubiety.Dns.Core.dll
+D:\myFarm\bin\Debug\System.Memory.dll
+D:\myFarm\bin\Debug\System.Buffers.dll
+D:\myFarm\bin\Debug\K4os.Compression.LZ4.dll
+D:\myFarm\bin\Debug\K4os.Hash.xxHash.dll
+D:\myFarm\bin\Debug\System.Numerics.Vectors.dll
+D:\myFarm\bin\Debug\MySql.Data.xml
+D:\myFarm\obj\Debug\myFarm.csproj.AssemblyReference.cache
+D:\myFarm\obj\Debug\myFarm.exe.config
+D:\myFarm\obj\Debug\myFarm.About.resources
+D:\myFarm\obj\Debug\myFarm.AddAnimal.resources
+D:\myFarm\obj\Debug\myFarm.Auth.resources
+D:\myFarm\obj\Debug\myFarm.DeleteAnimal.resources
+D:\myFarm\obj\Debug\myFarm.lookAnimals.resources
+D:\myFarm\obj\Debug\myFarm.MainScreen.resources
+D:\myFarm\obj\Debug\myFarm.Properties.Resources.resources
+D:\myFarm\obj\Debug\myFarm.csproj.GenerateResource.cache
+D:\myFarm\obj\Debug\myFarm.csproj.CoreCompileInputs.cache
+D:\myFarm\obj\Debug\myFarm.csproj.CopyComplete
+D:\myFarm\obj\Debug\myFarm.exe
+D:\myFarm\obj\Debug\myFarm.pdb
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\bin\Debug\myFarm.exe.config
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\bin\Debug\myFarm.exe
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\bin\Debug\myFarm.pdb
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\bin\Debug\MySql.Data.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\bin\Debug\Google.Protobuf.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\bin\Debug\ZstdNet.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\bin\Debug\BouncyCastle.Crypto.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\bin\Debug\Ubiety.Dns.Core.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\bin\Debug\System.Memory.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\bin\Debug\System.Buffers.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\bin\Debug\K4os.Compression.LZ4.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\bin\Debug\K4os.Hash.xxHash.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\bin\Debug\System.Numerics.Vectors.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\bin\Debug\MySql.Data.xml
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\obj\Debug\myFarm.csproj.AssemblyReference.cache
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\obj\Debug\myFarm.exe.config
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\obj\Debug\myFarm.MainScreen.resources
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\obj\Debug\myFarm.Properties.Resources.resources
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\obj\Debug\myFarm.csproj.GenerateResource.cache
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\obj\Debug\myFarm.csproj.CoreCompileInputs.cache
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\obj\Debug\myFarm.csproj.CopyComplete
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\obj\Debug\myFarm.exe
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\obj\Debug\myFarm.pdb
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\obj\Debug\myFarm.LookLexems.resources

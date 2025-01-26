@@ -1,0 +1,2 @@
+abc := true xor false;
+a1 := abc xor (true or abc);

@@ -1,0 +1,174 @@
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\obj\Debug\Lexems.csproj.AssemblyReference.cache
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\obj\Debug\Lexems.csproj.GenerateResource.cache
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\obj\Debug\Lexems.csproj.CoreCompileInputs.cache
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\bin\Debug\MySql.Data.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\bin\Debug\Google.Protobuf.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\bin\Debug\ZstdNet.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\bin\Debug\BouncyCastle.Crypto.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\bin\Debug\Ubiety.Dns.Core.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\bin\Debug\System.Memory.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\bin\Debug\System.Buffers.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\bin\Debug\K4os.Compression.LZ4.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\bin\Debug\K4os.Hash.xxHash.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\bin\Debug\System.Numerics.Vectors.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\bin\Debug\MySql.Data.xml
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\obj\Debug\Lexems.MainScreen.resources
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\obj\Debug\Lexems.csproj.CopyComplete
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\bin\Debug\Lexems.exe.config
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\bin\Debug\Lexems.exe
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\bin\Debug\Lexems.pdb
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\obj\Debug\Lexems.exe.config
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\obj\Debug\Lexems.Properties.Resources.resources
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\obj\Debug\Lexems.exe
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\obj\Debug\Lexems.pdb
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор на основе myFarm\obj\Debug\Lexems.LookLexems.resources
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Дель\bin\Debug\Lexems.exe.config
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Дель\bin\Debug\Lexems.exe
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Дель\bin\Debug\Lexems.pdb
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Дель\bin\Debug\MySql.Data.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Дель\bin\Debug\Google.Protobuf.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Дель\bin\Debug\ZstdNet.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Дель\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Дель\bin\Debug\BouncyCastle.Crypto.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Дель\bin\Debug\Ubiety.Dns.Core.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Дель\bin\Debug\System.Memory.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Дель\bin\Debug\System.Buffers.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Дель\bin\Debug\K4os.Compression.LZ4.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Дель\bin\Debug\K4os.Hash.xxHash.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Дель\bin\Debug\System.Numerics.Vectors.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Дель\bin\Debug\MySql.Data.xml
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Дель\obj\Debug\Lexems.csproj.AssemblyReference.cache
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Дель\obj\Debug\Lexems.exe.config
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Дель\obj\Debug\Lexems.LookLexems.resources
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Дель\obj\Debug\Lexems.MainScreen.resources
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Дель\obj\Debug\Lexems.Properties.Resources.resources
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Дель\obj\Debug\Lexems.csproj.GenerateResource.cache
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Дель\obj\Debug\Lexems.csproj.CoreCompileInputs.cache
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Дель\obj\Debug\Lexems.csproj.CopyComplete
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Дель\obj\Debug\Lexems.exe
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Дель\obj\Debug\Lexems.pdb
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Подгорный\bin\Debug\Lexems.exe.config
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Подгорный\bin\Debug\Lexems.exe
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Подгорный\bin\Debug\Lexems.pdb
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Подгорный\bin\Debug\MySql.Data.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Подгорный\bin\Debug\Google.Protobuf.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Подгорный\bin\Debug\ZstdNet.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Подгорный\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Подгорный\bin\Debug\BouncyCastle.Crypto.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Подгорный\bin\Debug\Ubiety.Dns.Core.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Подгорный\bin\Debug\System.Memory.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Подгорный\bin\Debug\System.Buffers.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Подгорный\bin\Debug\K4os.Compression.LZ4.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Подгорный\bin\Debug\K4os.Hash.xxHash.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Подгорный\bin\Debug\System.Numerics.Vectors.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Подгорный\bin\Debug\MySql.Data.xml
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Подгорный\obj\Debug\Lexems.csproj.AssemblyReference.cache
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Подгорный\obj\Debug\Lexems.exe.config
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Подгорный\obj\Debug\Lexems.LookLexems.resources
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Подгорный\obj\Debug\Lexems.MainScreen.resources
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Подгорный\obj\Debug\Lexems.Properties.Resources.resources
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Подгорный\obj\Debug\Lexems.csproj.GenerateResource.cache
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Подгорный\obj\Debug\Lexems.csproj.CoreCompileInputs.cache
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Подгорный\obj\Debug\Lexems.csproj.CopyComplete
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Подгорный\obj\Debug\Lexems.exe
+C:\Уроки\4-7\ИСИС\лексический анализатор\анализатор Подгорный\obj\Debug\Lexems.pdb
+C:\Уроки\4-7\ИСИС\лексический анализатор\Воронин вар 6\анализатор вар 6\bin\Debug\Lexems.exe.config
+C:\Уроки\4-7\ИСИС\лексический анализатор\Воронин вар 6\анализатор вар 6\bin\Debug\Lexems.exe
+C:\Уроки\4-7\ИСИС\лексический анализатор\Воронин вар 6\анализатор вар 6\bin\Debug\Lexems.pdb
+C:\Уроки\4-7\ИСИС\лексический анализатор\Воронин вар 6\анализатор вар 6\bin\Debug\MySql.Data.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\Воронин вар 6\анализатор вар 6\bin\Debug\Google.Protobuf.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\Воронин вар 6\анализатор вар 6\bin\Debug\ZstdNet.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\Воронин вар 6\анализатор вар 6\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\Воронин вар 6\анализатор вар 6\bin\Debug\BouncyCastle.Crypto.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\Воронин вар 6\анализатор вар 6\bin\Debug\Ubiety.Dns.Core.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\Воронин вар 6\анализатор вар 6\bin\Debug\System.Memory.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\Воронин вар 6\анализатор вар 6\bin\Debug\System.Buffers.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\Воронин вар 6\анализатор вар 6\bin\Debug\K4os.Compression.LZ4.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\Воронин вар 6\анализатор вар 6\bin\Debug\K4os.Hash.xxHash.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\Воронин вар 6\анализатор вар 6\bin\Debug\System.Numerics.Vectors.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\Воронин вар 6\анализатор вар 6\bin\Debug\MySql.Data.xml
+C:\Уроки\4-7\ИСИС\лексический анализатор\Воронин вар 6\анализатор вар 6\obj\Debug\Lexems.csproj.AssemblyReference.cache
+C:\Уроки\4-7\ИСИС\лексический анализатор\Воронин вар 6\анализатор вар 6\obj\Debug\Lexems.exe.config
+C:\Уроки\4-7\ИСИС\лексический анализатор\Воронин вар 6\анализатор вар 6\obj\Debug\Lexems.LookLexems.resources
+C:\Уроки\4-7\ИСИС\лексический анализатор\Воронин вар 6\анализатор вар 6\obj\Debug\Lexems.MainScreen.resources
+C:\Уроки\4-7\ИСИС\лексический анализатор\Воронин вар 6\анализатор вар 6\obj\Debug\Lexems.Properties.Resources.resources
+C:\Уроки\4-7\ИСИС\лексический анализатор\Воронин вар 6\анализатор вар 6\obj\Debug\Lexems.csproj.GenerateResource.cache
+C:\Уроки\4-7\ИСИС\лексический анализатор\Воронин вар 6\анализатор вар 6\obj\Debug\Lexems.csproj.CoreCompileInputs.cache
+C:\Уроки\4-7\ИСИС\лексический анализатор\Воронин вар 6\анализатор вар 6\obj\Debug\Lexems.csproj.CopyComplete
+C:\Уроки\4-7\ИСИС\лексический анализатор\Воронин вар 6\анализатор вар 6\obj\Debug\Lexems.exe
+C:\Уроки\4-7\ИСИС\лексический анализатор\Воронин вар 6\анализатор вар 6\obj\Debug\Lexems.pdb
+C:\Уроки\4-7\ИСИС\лексический анализатор\Барулин вар 2\анализатор вар 2\bin\Debug\Lexems.exe.config
+C:\Уроки\4-7\ИСИС\лексический анализатор\Барулин вар 2\анализатор вар 2\bin\Debug\Lexems.exe
+C:\Уроки\4-7\ИСИС\лексический анализатор\Барулин вар 2\анализатор вар 2\bin\Debug\Lexems.pdb
+C:\Уроки\4-7\ИСИС\лексический анализатор\Барулин вар 2\анализатор вар 2\bin\Debug\MySql.Data.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\Барулин вар 2\анализатор вар 2\bin\Debug\Google.Protobuf.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\Барулин вар 2\анализатор вар 2\bin\Debug\ZstdNet.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\Барулин вар 2\анализатор вар 2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\Барулин вар 2\анализатор вар 2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\Барулин вар 2\анализатор вар 2\bin\Debug\Ubiety.Dns.Core.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\Барулин вар 2\анализатор вар 2\bin\Debug\System.Memory.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\Барулин вар 2\анализатор вар 2\bin\Debug\System.Buffers.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\Барулин вар 2\анализатор вар 2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\Барулин вар 2\анализатор вар 2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\Барулин вар 2\анализатор вар 2\bin\Debug\System.Numerics.Vectors.dll
+C:\Уроки\4-7\ИСИС\лексический анализатор\Барулин вар 2\анализатор вар 2\bin\Debug\MySql.Data.xml
+C:\Уроки\4-7\ИСИС\лексический анализатор\Барулин вар 2\анализатор вар 2\obj\Debug\Lexems.csproj.AssemblyReference.cache
+C:\Уроки\4-7\ИСИС\лексический анализатор\Барулин вар 2\анализатор вар 2\obj\Debug\Lexems.exe.config
+C:\Уроки\4-7\ИСИС\лексический анализатор\Барулин вар 2\анализатор вар 2\obj\Debug\Lexems.LookLexems.resources
+C:\Уроки\4-7\ИСИС\лексический анализатор\Барулин вар 2\анализатор вар 2\obj\Debug\Lexems.MainScreen.resources
+C:\Уроки\4-7\ИСИС\лексический анализатор\Барулин вар 2\анализатор вар 2\obj\Debug\Lexems.Properties.Resources.resources
+C:\Уроки\4-7\ИСИС\лексический анализатор\Барулин вар 2\анализатор вар 2\obj\Debug\Lexems.csproj.GenerateResource.cache
+C:\Уроки\4-7\ИСИС\лексический анализатор\Барулин вар 2\анализатор вар 2\obj\Debug\Lexems.csproj.CoreCompileInputs.cache
+C:\Уроки\4-7\ИСИС\лексический анализатор\Барулин вар 2\анализатор вар 2\obj\Debug\Lexems.csproj.CopyComplete
+C:\Уроки\4-7\ИСИС\лексический анализатор\Барулин вар 2\анализатор вар 2\obj\Debug\Lexems.exe
+C:\Уроки\4-7\ИСИС\лексический анализатор\Барулин вар 2\анализатор вар 2\obj\Debug\Lexems.pdb
+C:\Users\Rafky\OneDrive\Рабочий стол\2 var\obj\Debug\Lexems.csproj.AssemblyReference.cache
+C:\Users\Rafky\OneDrive\Рабочий стол\2 var\obj\Debug\Lexems.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rafky\OneDrive\Рабочий стол\2 var\obj\Debug\Lexems.exe.config
+C:\Users\Rafky\OneDrive\Рабочий стол\2 var\obj\Debug\Lexems.exe
+C:\Users\Rafky\OneDrive\Рабочий стол\2 var\obj\Debug\Lexems.pdb
+C:\Users\Rafky\OneDrive\Рабочий стол\2 var\bin\Debug\Lexems.exe.config
+C:\Users\Rafky\OneDrive\Рабочий стол\2 var\bin\Debug\Lexems.exe
+C:\Users\Rafky\OneDrive\Рабочий стол\2 var\bin\Debug\Lexems.pdb
+C:\Users\Rafky\OneDrive\Рабочий стол\2 var\bin\Debug\Google.Protobuf.dll
+C:\Users\Rafky\OneDrive\Рабочий стол\2 var\bin\Debug\ZstdNet.dll
+C:\Users\Rafky\OneDrive\Рабочий стол\2 var\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Rafky\OneDrive\Рабочий стол\2 var\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Rafky\OneDrive\Рабочий стол\2 var\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Rafky\OneDrive\Рабочий стол\2 var\bin\Debug\System.Memory.dll
+C:\Users\Rafky\OneDrive\Рабочий стол\2 var\bin\Debug\System.Buffers.dll
+C:\Users\Rafky\OneDrive\Рабочий стол\2 var\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Rafky\OneDrive\Рабочий стол\2 var\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Rafky\OneDrive\Рабочий стол\2 var\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Rafky\OneDrive\Рабочий стол\2 var\bin\Debug\MySql.Data.xml
+C:\Users\Rafky\OneDrive\Рабочий стол\2 var\obj\Debug\Lexems.LookLexems.resources
+C:\Users\Rafky\OneDrive\Рабочий стол\2 var\obj\Debug\Lexems.MainScreen.resources
+C:\Users\Rafky\OneDrive\Рабочий стол\2 var\obj\Debug\Lexems.Properties.Resources.resources
+C:\Users\Rafky\OneDrive\Рабочий стол\2 var\obj\Debug\Lexems.csproj.GenerateResource.cache
+C:\Users\Rafky\OneDrive\Рабочий стол\2 var\obj\Debug\Lexems.csproj.CoreCompileInputs.cache
+C:\Users\Rafky\OneDrive\Рабочий стол\2 var\obj\Debug\Lexems.csproj.CopyComplete
+C:\Users\Илья\Desktop\2 var\bin\Debug\Lexems.exe.config
+C:\Users\Илья\Desktop\2 var\bin\Debug\Lexems.exe
+C:\Users\Илья\Desktop\2 var\bin\Debug\Lexems.pdb
+C:\Users\Илья\Desktop\2 var\bin\Debug\Google.Protobuf.dll
+C:\Users\Илья\Desktop\2 var\bin\Debug\ZstdNet.dll
+C:\Users\Илья\Desktop\2 var\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Илья\Desktop\2 var\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Илья\Desktop\2 var\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Илья\Desktop\2 var\bin\Debug\System.Memory.dll
+C:\Users\Илья\Desktop\2 var\bin\Debug\System.Buffers.dll
+C:\Users\Илья\Desktop\2 var\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Илья\Desktop\2 var\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Илья\Desktop\2 var\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Илья\Desktop\2 var\bin\Debug\MySql.Data.xml
+C:\Users\Илья\Desktop\2 var\obj\Debug\Lexems.csproj.AssemblyReference.cache
+C:\Users\Илья\Desktop\2 var\obj\Debug\Lexems.exe.config
+C:\Users\Илья\Desktop\2 var\obj\Debug\Lexems.LookLexems.resources
+C:\Users\Илья\Desktop\2 var\obj\Debug\Lexems.MainScreen.resources
+C:\Users\Илья\Desktop\2 var\obj\Debug\Lexems.Properties.Resources.resources
+C:\Users\Илья\Desktop\2 var\obj\Debug\Lexems.csproj.GenerateResource.cache
+C:\Users\Илья\Desktop\2 var\obj\Debug\Lexems.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\2 var\obj\Debug\Lexems.csproj.CopyComplete
+C:\Users\Илья\Desktop\2 var\obj\Debug\Lexems.exe
+C:\Users\Илья\Desktop\2 var\obj\Debug\Lexems.pdb
